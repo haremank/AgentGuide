@@ -160,6 +160,8 @@ topic:
 | [Agent Harness Engineering：把裸模型变成能干活的系统](./02-tech-stack/27-agent-harness-engineering.md) | 教程 | 已发布 | 高阶 | Agent、上下文工程、MCP |
 | [多模态 RAG 管线](./02-tech-stack/28-multimodal-rag-pipeline.md) | 教程 | 已发布 | 进阶 | 多模态、RAG |
 | [向量数据库选型指南](./02-tech-stack/29-vector-database-selection.md) | 教程 | 已发布 | 进阶 | RAG、框架工具 |
+| [KV-Cache 成本工程：把上下文当作预算来管理](./02-tech-stack/30-kv-cache-cost-engineering.md) | 教程 | 已发布 | 高阶 | Agent、上下文工程、框架工具 |
+| [2026 Agent 框架与协议生态地图](./02-tech-stack/31-agent-framework-ecosystem-2026.md) | 教程 | 已发布 | 进阶 | Agent、框架工具、多智能体 |
 | [AI Agent 评估完全指南](./02-tech-stack/agent-evaluation-complete-guide.md) | 教程 | 已发布 | 高阶 | Agent、评测 |
 | [技术栈：以上下文工程为核心的 Agent 开发](./02-tech-stack/README.md) | 入口页 | 已发布 | 通用 | Agent、上下文工程、框架工具 |
 | [Agent 安全防护](./03-practice/03-agent-security.md) | 实践指南 | 已发布 | 高阶 | Agent、安全、项目实战 |

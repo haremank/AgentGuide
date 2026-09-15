@@ -84,6 +84,17 @@ Agent Harness 工程
     └── idempotency / timeout / retry / cost guard / permission / observability
 ```
 
+### 💰 成本工程与框架生态（2026 新增）
+
+```
+生产级 Agent 的两门新必修课
+├── KV-Cache 成本工程
+│   └── 30-kv-cache-cost-engineering.md - 上下文成本的三条铁律
+│
+└── 框架与协议生态
+    └── 31-agent-framework-ecosystem-2026.md - 2026 框架选型与 MCP/A2A 全景
+```
+
 ---
 
 ## 📖 学习路径
@@ -149,6 +160,17 @@ Agent Harness 工程
   - 如何避免常见错误
   - 适合：少走弯路
 
+#### 第七步：框架选型与成本工程（2026 前沿）
+- **[30-kv-cache-cost-engineering.md](./30-kv-cache-cost-engineering.md)** ⭐ 核心
+  - KV 缓存命中率决定 Agent 成本
+  - Append-Only、稳定前缀、遮蔽而非移除三铁律
+  - 适合：把 Agent 跑进生产预算
+
+- **[31-agent-framework-ecosystem-2026.md](./31-agent-framework-ecosystem-2026.md)** ⭐ 核心
+  - LangGraph / OpenAI Agents SDK / MS Agent Framework 全景
+  - MCP 与 A2A 协议生态
+  - 适合：技术选型与面试系统设计
+
 ---
 
 ### 💼 实战应用路径（2-4周）
@@ -169,6 +191,7 @@ Agent Harness 工程
 3. Claude Code 最佳实践 → 学习工程化方法
 4. Context Engineering 修复技巧 → 解决实际问题
 5. Agent Memory → 实现持久化存储
+6. KV-Cache 成本工程 → 压下生产成本
 
 **🎯 全栈方向**（推荐）：
 - 按顺序完整学习所有文档
@@ -381,6 +404,45 @@ Agent Harness 工程
 
 ---
 
+### 🧭 2026 前沿文档（2篇）
+
+#### 11. [30-kv-cache-cost-engineering.md](./30-kv-cache-cost-engineering.md)
+**一句话总结**：把 KV 缓存命中率当作 Agent 的第一成本指标
+
+**核心内容**：
+- Manus 的三条铁律：Append-Only、稳定前缀、遮蔽而非移除
+- 上下文成本的数量级分析
+- 工具定义与系统提示词的稳定性设计
+- 生产环境的成本监控与优化清单
+
+**适合场景**：
+- ✅ Agent 成本优化
+- ✅ 高并发生产环境调优
+- ✅ 面试：成本工程的量化思考
+
+**学习时间**：1 小时
+
+---
+
+#### 12. [31-agent-framework-ecosystem-2026.md](./31-agent-framework-ecosystem-2026.md)
+**一句话总结**：2026 年 Agent 框架与协议生态的全景选型指南
+
+**核心内容**：
+- LangGraph、OpenAI Agents SDK、MS Agent Framework 深度对比
+- AutoGen 并入 MS Agent Framework 的生态变迁
+- MCP 与 A2A 协议的分工与趋势
+- 单上下文派 vs 编排派之争
+- 框架选型决策树
+
+**适合场景**：
+- ✅ 技术选型
+- ✅ 面试系统设计题
+- ✅ 理解 2026 Agent 工程生态
+
+**学习时间**：1-2 小时
+
+---
+
 ## 🎯 不同角色的学习建议
 
 ### 🔬 算法工程师
@@ -552,5 +614,7 @@ Agent Harness 工程
 | [Agent Harness Engineering：把裸模型变成能干活的系统](./27-agent-harness-engineering.md) | 教程 | 已发布 | 高阶 | Agent、上下文工程、MCP |
 | [多模态 RAG 管线](./28-multimodal-rag-pipeline.md) | 教程 | 已发布 | 进阶 | 多模态、RAG |
 | [向量数据库选型指南](./29-vector-database-selection.md) | 教程 | 已发布 | 进阶 | RAG、框架工具 |
+| [KV-Cache 成本工程：把上下文当作预算来管理](./30-kv-cache-cost-engineering.md) | 教程 | 已发布 | 高阶 | Agent、上下文工程、框架工具 |
+| [2026 Agent 框架与协议生态地图](./31-agent-framework-ecosystem-2026.md) | 教程 | 已发布 | 进阶 | Agent、框架工具、多智能体 |
 | [AI Agent 评估完全指南](./agent-evaluation-complete-guide.md) | 教程 | 已发布 | 高阶 | Agent、评测 |
 <!-- AUTO-GENERATED-CONTENT:END -->
