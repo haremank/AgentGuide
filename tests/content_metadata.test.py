@@ -25,24 +25,7 @@ from content_metadata import (  # noqa: E402
 from generate_resources import collect_resources  # noqa: E402
 
 
-EXPECTED_BACKLOG = {
-    "docs/01-theory/02-agent-history.md",
-    "docs/01-theory/03-transformer.md",
-    "docs/01-theory/05-cot-and-planning.md",
-    "docs/01-theory/08-agent-bench.md",
-    "docs/02-tech-stack/04-langchain-guide.md",
-    "docs/02-tech-stack/06-multi-agent-frameworks.md",
-    "docs/02-tech-stack/07-agentscope.md",
-    "docs/02-tech-stack/08-vector-db-basics.md",
-    "docs/02-tech-stack/20-rag-full-pipeline.md",
-    "docs/02-tech-stack/21-agent-reinforcement-learning.md",
-    "docs/02-tech-stack/build-your-agent-framework.md",
-    "docs/03-practice/02-high-availability-rag.md",
-    "docs/03-practice/04-graduation-project.md",
-    "resources/agent/papers/data_synthesis/README.md",
-    "resources/rag/papers/graphrag/README.md",
-    "resources/rag/papers/multimodal_rag/README.md",
-}
+EXPECTED_BACKLOG = set()  # 占位文档已清理,新 README 均为已发布
 
 EXPECTED_ARCHIVED = {
     "docs/00-getting-started/04-repo-gap-map.md",

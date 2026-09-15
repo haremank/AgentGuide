@@ -38,6 +38,7 @@ topic:
 | [一口气读完Agent Memory的21篇论文：从理论到实践的完整指南](<./agent/papers/agent_memory/一口气读完agent memory的21篇核心论文.md>) | 论文清单 | 已发布 | 进阶 | Agent、科研、记忆 |
 | [引言](./agent/papers/agent_rl/Agent➕RL开源项目汇总.md) | 论文清单 | 已发布 | 进阶 | Agent、科研、项目实战 |
 | [Agent RL Papers](./agent/papers/agent_rl/README.md) | 入口页 | 已发布 | 通用 | Agent、科研 |
+| [Data Synthesis Papers](./agent/papers/data_synthesis/README.md) | 入口页 | 已发布 | 通用 | Agent、科研 |
 | [Agent Papers](./agent/papers/README.md) | 入口页 | 已发布 | 通用 | Agent、科研 |
 | [Awesome Agent - AI Agent 开发核心资源](./agent/README.md) | 入口页 | 已发布 | 通用 | Agent、框架工具 |
 | [分类整理](./learning-resources.md) | 资源清单 | 已发布 | 通用 | Agent、RAG、框架工具 |
@@ -50,6 +51,8 @@ topic:
 | [文档解析工具精选](./rag/document-parsing.md) | 资源清单 | 已发布 | 通用 | RAG、多模态、框架工具 |
 | [目录](./rag/papers/agentic_rag/agentic_rag.md) | 论文清单 | 已发布 | 进阶 | RAG、科研 |
 | [Agentic RAG 论文汇总](./rag/papers/agentic_rag/README.md) | 入口页 | 已发布 | 通用 | RAG、科研、Agent |
+| [GraphRAG Papers](./rag/papers/graphrag/README.md) | 入口页 | 已发布 | 通用 | RAG、科研、面试求职 |
+| [Multimodal RAG Papers](./rag/papers/multimodal_rag/README.md) | 入口页 | 已发布 | 通用 | RAG、科研、多模态 |
 | [RAG Papers](./rag/papers/README.md) | 入口页 | 已发布 | 通用 | RAG、科研 |
 | [🔥 2025年最全RAG知识库项目汇总 \| 从入门到精通的150+开源项目清单](./rag/projects.md) | 资源清单 | 已发布 | 通用 | RAG、项目实战 |
 | [RAG 资源总览](./rag/README.md) | 入口页 | 已发布 | 通用 | RAG、框架工具 |
@@ -82,7 +85,7 @@ topic:
 | [可进化的知识系统-从理论到实践(1)](./agent/papers/agent_memory/可进化的知识系统-从理论到实践%281%29.pdf) | agent/papers/agent_memory |
 | [李志宇-从上下文到长期记忆：大模型记忆工程的架构设计与实践(1)](./agent/papers/agent_memory/李志宇-从上下文到长期记忆：大模型记忆工程的架构设计与实践%281%29.pdf) | agent/papers/agent_memory |
 | [AI_Agent_安全实践指引](./agent/papers/agent_security/AI_Agent_安全实践指引.pdf) | agent/papers/agent_security |
-| [2025年中国合成数据解决方案发展洞察(1)](./agent/papers/data_synthesis/2025年中国合成数据解决方案发展洞察%281%29.pdf) | agent/papers/data_synthesis |
+| [2025年中国合成数据解决方案发展洞察](./agent/papers/data_synthesis/2025年中国合成数据解决方案发展洞察.pdf) | agent/papers/data_synthesis |
 | [DataFlow 大模型数据合成框架](<./agent/papers/data_synthesis/DataFlow 大模型数据合成框架.pdf>) | agent/papers/data_synthesis |
 | [基于指标的合成数据质量与可信度评估综述](./agent/papers/data_synthesis/基于指标的合成数据质量与可信度评估综述.pdf) | agent/papers/data_synthesis |
 | [AI写作行业深度研究报告](./industry_reports/AI写作行业深度研究报告.pdf) | industry_reports |

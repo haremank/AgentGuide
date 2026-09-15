@@ -62,6 +62,8 @@ topic:
 | [文档解析工具精选](./document-parsing.md) | 资源清单 | 已发布 | 通用 | RAG、多模态、框架工具 |
 | [目录](./papers/agentic_rag/agentic_rag.md) | 论文清单 | 已发布 | 进阶 | RAG、科研 |
 | [Agentic RAG 论文汇总](./papers/agentic_rag/README.md) | 入口页 | 已发布 | 通用 | RAG、科研、Agent |
+| [GraphRAG Papers](./papers/graphrag/README.md) | 入口页 | 已发布 | 通用 | RAG、科研、面试求职 |
+| [Multimodal RAG Papers](./papers/multimodal_rag/README.md) | 入口页 | 已发布 | 通用 | RAG、科研、多模态 |
 | [RAG Papers](./papers/README.md) | 入口页 | 已发布 | 通用 | RAG、科研 |
 | [🔥 2025年最全RAG知识库项目汇总 \| 从入门到精通的150+开源项目清单](./projects.md) | 资源清单 | 已发布 | 通用 | RAG、项目实战 |
 <!-- AUTO-GENERATED-CONTENT:END -->

@@ -26,4 +26,6 @@ This directory contains a curated list of academic papers related to Retrieval-A
 |:---|:---|:---|:---|:---|
 | [目录](./agentic_rag/agentic_rag.md) | 论文清单 | 已发布 | 进阶 | RAG、科研 |
 | [Agentic RAG 论文汇总](./agentic_rag/README.md) | 入口页 | 已发布 | 通用 | RAG、科研、Agent |
+| [GraphRAG Papers](./graphrag/README.md) | 入口页 | 已发布 | 通用 | RAG、科研、面试求职 |
+| [Multimodal RAG Papers](./multimodal_rag/README.md) | 入口页 | 已发布 | 通用 | RAG、科研、多模态 |
 <!-- AUTO-GENERATED-CONTENT:END -->
