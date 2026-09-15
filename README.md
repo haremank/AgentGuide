@@ -1203,7 +1203,6 @@ AgentGuide 提供 **简历级实战项目**，每个项目都提供：
 - 注意力分散（Distraction）
 - 信息冲突（Clash）
 
-📖 [必读：上下文工程资源合集](./docs/02-tech-stack/13-context-engineering-resources.md) 🔥  
 📖 [深度指南：Context Engineering 2.0](./docs/02-tech-stack/18-context-engineering-guide.md)
 
 </td>

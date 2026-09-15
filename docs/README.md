@@ -42,14 +42,12 @@ topic:
 - [技术栈目录](./02-tech-stack/README.md)
 - [上下文工程实践](./02-tech-stack/11-context-engineering-practices.md)
 - [12-Factor Agents 架构](./02-tech-stack/12-factor-agent-architecture.md)
-- [上下文工程资源](./02-tech-stack/13-context-engineering-resources.md)
 - [上下文工程](./02-tech-stack/14-context-engineering.md)
 - [MCP 协议](./02-tech-stack/10-mcp-protocol.md)
 - [Agent Memory](./02-tech-stack/15-agent-memory.md)
 - [SFT 微调](./02-tech-stack/16-sft-finetuning.md)
 - [Claude Code 最佳实践](./02-tech-stack/17-claude-code-best-practices.md)
 - [上下文工程指南](./02-tech-stack/18-context-engineering-guide.md)
-- [上下文工程教程大纲](./02-tech-stack/19-context-engineering-tutorial-outline.md)
 - [Parlant Agent 合规性解析](./02-tech-stack/22-parlant-agent-compliance-deep-dive.md)
 - [经验与教训](./02-tech-stack/23-lessons-learned.md)
 - [Agent 沙箱指南](./02-tech-stack/24-agent-sandbox-guide.md)
@@ -149,13 +147,11 @@ topic:
 | [MCP 协议详解](./02-tech-stack/10-mcp-protocol.md) | 教程 | 已发布 | 进阶 | MCP |
 | [上下文工程：业界最佳实践精华](./02-tech-stack/11-context-engineering-practices.md) | 教程 | 已发布 | 进阶 | 上下文工程、项目实战 |
 | [大厂都在用的12-Factor Agent架构，终于有人讲清楚了！](./02-tech-stack/12-factor-agent-architecture.md) | 教程 | 已发布 | 进阶 | Agent、上下文工程、项目实战 |
-| [🎯 一、核心概念入门（建立框架）](./02-tech-stack/13-context-engineering-resources.md) | 教程 | 已发布 | 进阶 | 框架工具 |
 | [长文深度解析：大模型的"上下文陷阱"与6大修复技巧](./02-tech-stack/14-context-engineering.md) | 教程 | 已发布 | 进阶 | 上下文工程、RAG |
 | [Agent Memory - 从原理到实战](./02-tech-stack/15-agent-memory.md) | 教程 | 已发布 | 进阶 | Agent、记忆 |
 | [SFT（监督微调）实战经验分享（阿东玩AI）](./02-tech-stack/16-sft-finetuning.md) | 教程 | 已发布 | 进阶 | 模型训练、基础模型 |
 | [Claude Code 最佳实践指南](./02-tech-stack/17-claude-code-best-practices.md) | 教程 | 已发布 | 进阶 | Coding Agent |
 | [上下文工程完全指南:设计控制信息流向LLM的系统](./02-tech-stack/18-context-engineering-guide.md) | 教程 | 已发布 | 进阶 | 上下文工程、项目实战、基础模型 |
-| [《上下文工程：从提示到系统的AI应用架构指南》](./02-tech-stack/19-context-engineering-tutorial-outline.md) | 教程 | 已发布 | 进阶 | 上下文工程、项目实战 |
 | [Parlant：如何让AI Agent真正"靠谱"？深度解析Agent合规保障方案](./02-tech-stack/22-parlant-agent-compliance-deep-dive.md) | 教程 | 已发布 | 高阶 | Agent、安全 |
 | [Agent AI 企业转型的六大实战教训](./02-tech-stack/23-lessons-learned.md) | 教程 | 已发布 | 进阶 | Agent、项目实战 |
 | [OpenClaw彻底带火了沙箱，桌面Agent落地必看](./02-tech-stack/24-agent-sandbox-guide.md) | 教程 | 已发布 | 高阶 | Coding Agent、安全、Agent |
